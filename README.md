@@ -4,9 +4,34 @@
 
 ---
 
-## 🌐 Live Demo
+## 📸 Скриншоты
 
-> *(Ссылка на деплой, если есть)*
+### Главная страница
+<p align="center">
+  <img src="docs/screenshots/zhylu_main1.jpg" width="49%" alt="Главная — герой"/>
+  <img src="docs/screenshots/zhylu_main2.jpg" width="49%" alt="Главная — описание"/>
+</p>
+
+### Форма жалобы и проверка статуса
+<p align="center">
+  <img src="docs/screenshots/zhylu_submit.jpg" width="49%" alt="Форма отправки жалобы"/>
+  <img src="docs/screenshots/zhylu_status_screen.jpg" width="49%" alt="Проверка статуса по UUID"/>
+</p>
+
+### FAQ
+<p align="center">
+  <img src="docs/screenshots/zhylu_faq.jpg" width="70%" alt="Часто задаваемые вопросы"/>
+</p>
+
+### Панель администратора
+<p align="center">
+  <img src="docs/screenshots/zhylu_login_admin.jpg" width="32%" alt="Вход для администратора"/>
+  <img src="docs/screenshots/zhylu_admin.jpg" width="32%" alt="Дашборд администратора"/>
+  <img src="docs/screenshots/zhylu_admin_report.jpg" width="32%" alt="Детали жалобы с ИИ-анализом"/>
+</p>
+<p align="center">
+  <img src="docs/screenshots/zhylu_admin_report2.jpg" width="60%" alt="Анонимный чат с учеником"/>
+</p>
 
 ---
 
