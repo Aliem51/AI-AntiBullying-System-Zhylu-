@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Zhylu1Application<zhylu1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.zhylu.zhylu1.Zhylu1Application",
+            "projectName": "zhylu1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

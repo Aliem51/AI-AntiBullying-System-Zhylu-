@@ -1,0 +1,2 @@
+create table complaints (ai_priority_score integer, is_urgent boolean, created_at timestamp(6), id uuid not null, admin_reply TEXT, assigned_to varchar(255), category varchar(255), description TEXT, email varchar(255), file_path varchar(255), incident_time varchar(255), location_ru varchar(255), person_reporting varchar(255), phone varchar(255), status varchar(255), student_names TEXT, type varchar(255), primary key (id));
+create table users (id uuid not null, email varchar(255) unique, password varchar(255), role varchar(255), primary key (id));
